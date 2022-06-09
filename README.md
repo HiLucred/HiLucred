@@ -2,7 +2,8 @@
 
 Sou estudante de programação web e atualmente estou cursando o 5º período em Jogos Digitais na PUCPR. 
 Depois de desenvolver alguns jogos completos na faculdade, acabei pegando gosto pelo desenvolvimento web, e desde então venho dedicando meus estudos na área de front-end.
-<iframe src="https://giphy.com/embed/26ufn24Onjz8w7NxS" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/love-amor-feliz-26ufn24Onjz8w7NxS">via GIPHY</a></p>
+
+![image](https://user-images.githubusercontent.com/90939916/172907116-3170bf44-7c87-4903-a4f7-5e9667191238.png)
 
 Alguns jogos que eu participei no desenvolvimento: https://lucvang.itch.io/
 
