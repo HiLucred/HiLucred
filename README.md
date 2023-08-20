@@ -1,6 +1,6 @@
 👋 Olá, 
 
-Sou desenvolvedor fullstack e atualmente estou cursando o 7º período em Jogos Digitais na PUCPR. Depois de desenvolver alguns jogos completos na faculdade, acabei pegando gosto pelo desenvolvimento web, e desde então venho dedicando meus estudos no desenvolvimento full-stack.
+Sou desenvolvedor fullstack e atualmente estou cursando o 7º período em Jogos Digitais na PUCPR. Depois de desenvolver alguns jogos completos na faculdade, acabei pegando gosto pelo desenvolvimento web, e desde então venho dedicando meus estudos no desenvolvimento full-stack. Atualmente focado em Typescript, Next.JS e Nest.Js.
 
 Habilidades: 
 
